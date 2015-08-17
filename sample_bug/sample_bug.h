@@ -2,7 +2,7 @@
 //  sample_bug.h
 //  sample_bug
 //
-//  Created by Anthony Reinette on 17/08/2015.
+//  Created by Anthony R on 17/08/2015.
 //
 //
 
